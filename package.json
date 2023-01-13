@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anujrawat22/Github_actions/issues"
   },
-  "homepage": "https://github.com/anujrawat22/Github_actions#readme"
+  "homepage": "https://github.com/anujrawat22/Github_actions#readme",
+  "dependencies": {
+    "random-number": "^0.0.9"
+  }
 }
